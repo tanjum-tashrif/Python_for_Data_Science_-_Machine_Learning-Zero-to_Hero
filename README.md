@@ -1,0 +1,1 @@
+Welcome to the Python for Data Science & Machine Learning: Zero to Hero course! This repository contains all the resources, code, and notebooks to help you master data science and machine learning using Python.
